@@ -14,7 +14,7 @@ if (!isset($_SESSION['user_id'])) {
 
 require_once __DIR__ . '/../db.php';
 
-// === Constantes das APIs (use variáveis de ambiente em produção) ===
+// === Constantes das APIs (use variáveis de ambiente em produção) ==
 $IRONPAY_API_TOKEN = '#';
 $IRONPAY_ENDPOINT = 'https://api.ironpayapp.com.br/api';
 $ZEROONEPAY_API_TOKEN = '#';
