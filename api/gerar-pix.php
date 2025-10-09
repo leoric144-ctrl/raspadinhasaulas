@@ -29,10 +29,10 @@ $ZEROONEPAY_OFFER_HASH = 'uhnrsmsec6';
 $ZEROONEPAY_PRODUCT_HASH = '7gftxtvjls';
 
 // IRONPAY (Token na URL. ENDPOINT é o base)
-$IRONPAY_API_TOKEN = '#';
+$IRONPAY_API_TOKEN = 'b9WEdjUgwPkiwvt8Y8HJUZkoRriU76whBWI2m8edeieY3GouH2JR2dulNXHr';
 $IRONPAY_ENDPOINT = 'https://api.ironpayapp.com.br/api';
-$IRONPAY_OFFER_HASH = '#';
-$IRONPAY_PRODUCT_HASH = '#';
+$IRONPAY_OFFER_HASH = 'ndnr8qjne0';
+$IRONPAY_PRODUCT_HASH = 'umtsxd7ewd';
 $IRONPAY_PRODUCT_ID = null;
 $IRONPAY_OFFER_ID = null;
 
