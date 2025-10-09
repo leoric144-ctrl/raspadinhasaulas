@@ -21,7 +21,7 @@ if (empty($transaction_id_ou_hash)) {
 }
 
 // Constantes das APIs (Mantenha seus tokens em variáveis de ambiente em produção)
-$ZEROONEPAY_API_TOKEN = '#';
+$ZEROONEPAY_API_TOKEN = '26eWD1RBhw4A7Q2Y4s5HbGXVIxxc5FRqaaxPgg6yYkqeUtcXytNSpzpoDdlx';
 $IRONPAY_API_TOKEN = '#';
 
 // Endpoints base
