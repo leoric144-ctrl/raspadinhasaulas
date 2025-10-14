@@ -38,8 +38,8 @@ $IRONPAY_OFFER_ID = null;
 
 
 // NOVAS CONSTANTES PARA A PIXUP (Permanece inalterado)
-$PIXUP_CLIENT_ID = '#';
-$PIXUP_CLIENT_SECRET = '#';
+$PIXUP_CLIENT_ID = 'notfakeluccas_7410627013707702';
+$PIXUP_CLIENT_SECRET = '197476d3be2e2480bdd2aec7f013154c40139300240229f26d562d1d39681d30';
 $PIXUP_ENDPOINT = 'https://api.pixupbr.com/v2';
 $PIXUP_AUTH_TOKEN = null;
 
@@ -240,7 +240,7 @@ try {
         $payload = json_encode([
             'amount' => $amountInReais,
             'external_id' => (string)$localTransactionId,
-            'postbackUrl' => "https://raspadinhas.green/api/webhook-pixup.php",
+            'postbackUrl' => "https://raspadinhasaulas.onrender.com/api/webhook-pixup.php", //alterar essa url para a sua url real
             'payerQuestion' => 'Recarga de saldo na Raspa Green',
             'payer' => [
                 'name' => $user['name'] ?? 'Usuário Sem Nome',
