@@ -23,23 +23,23 @@ require_once __DIR__ . '/../db.php';
 // Constantes para as APIs
 
 // ZEROONEPAY (Token na URL. API_URL é o ENDPOINT base)
-$ZEROONEPAY_API_TOKEN = '26eWD1RBhw4A7Q2Y4s5HbGXVIxxc5FRqaaxPgg6yYkqeUtcXytNSpzpoDdlx';
+$ZEROONEPAY_API_TOKEN = '#';
 $ZEROONEPAY_API_URL = 'https://api.zeroonepay.com.br/api'; // Endpoint base
-$ZEROONEPAY_OFFER_HASH = 'uhnrsmsec6';
-$ZEROONEPAY_PRODUCT_HASH = '7gftxtvjls';
+$ZEROONEPAY_OFFER_HASH = '#';
+$ZEROONEPAY_PRODUCT_HASH = '#';
 
 // IRONPAY (Token na URL. ENDPOINT é o base)
-$IRONPAY_API_TOKEN = 'b9WEdjUgwPkiwvt8Y8HJUZkoRriU76whBWI2m8edeieY3GouH2JR2dulNXHr';
+$IRONPAY_API_TOKEN = '#';
 $IRONPAY_ENDPOINT = 'https://api.ironpayapp.com.br/api';
-$IRONPAY_OFFER_HASH = 'ndnr8qjne0';
-$IRONPAY_PRODUCT_HASH = 'umtsxd7ewd';
+$IRONPAY_OFFER_HASH = '#';
+$IRONPAY_PRODUCT_HASH = '#';
 $IRONPAY_PRODUCT_ID = null;
 $IRONPAY_OFFER_ID = null;
 
 
 // NOVAS CONSTANTES PARA A PIXUP (Permanece inalterado)
-$PIXUP_CLIENT_ID = 'notfakeluccas_7410627013707702';
-$PIXUP_CLIENT_SECRET = '197476d3be2e2480bdd2aec7f013154c40139300240229f26d562d1d39681d30';
+$PIXUP_CLIENT_ID = '#';
+$PIXUP_CLIENT_SECRET = '#';
 $PIXUP_ENDPOINT = 'https://api.pixupbr.com/v2';
 $PIXUP_AUTH_TOKEN = null;
 
