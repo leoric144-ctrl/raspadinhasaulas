@@ -3,7 +3,7 @@
         <ul>
             <li class="sidebar-logo">
                 <a href="?view=inicio">
-                    <img src="https://ik.imagekit.io/3kbnnws8u/raspa-green-logo.png?updatedAt=1757348357863" alt="Raspa Green Logo">
+                    <img src="c:\Users\game master\Downloads\JOGA_RASPADINHA-removebg-preview.png" alt="joga raspadinha Logo">
                 </a>
             </li>
 

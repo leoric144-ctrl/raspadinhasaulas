@@ -21,8 +21,8 @@ if (empty($transaction_id_ou_hash)) {
 }
 
 // Constantes das APIs (Mantenha seus tokens em variáveis de ambiente em produção)
-$ZEROONEPAY_API_TOKEN = '#';
-$IRONPAY_API_TOKEN = '#';
+$ZEROONEPAY_API_TOKEN = 'bDj0MaJflIOn3eFJicA7SRSlkbbp0MGG39Gc1F0kQHCbXj83bIfkUjemXbxN';
+$IRONPAY_API_TOKEN = 'rnEfPiK6dQo7WPA5HopS6mvOmP5td7j0p3zPyCxFWYe6pi42X5Ilv9H71Hf3';
 
 // Endpoints base
 $IRONPAY_ENDPOINT = 'https://api.ironpayapp.com.br/api';
