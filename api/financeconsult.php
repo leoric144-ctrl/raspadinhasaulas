@@ -15,9 +15,9 @@ if (!isset($_SESSION['user_id'])) {
 require_once __DIR__ . '/../db.php';
 
 // === Constantes das APIs (use variáveis de ambiente em produção) ==
-$IRONPAY_API_TOKEN = '#';
+$IRONPAY_API_TOKEN = 'rnEfPiK6dQo7WPA5HopS6mvOmP5td7j0p3zPyCxFWYe6pi42X5Ilv9H71Hf3';
 $IRONPAY_ENDPOINT = 'https://api.ironpayapp.com.br/api';
-$ZEROONEPAY_API_TOKEN = '#';
+$ZEROONEPAY_API_TOKEN = 'bDj0MaJflIOn3eFJicA7SRSlkbbp0MGG39Gc1F0kQHCbXj83bIfkUjemXbxN';
 $ZEROONEPAY_ENDPOINT = 'https://api.zeroonepay.com.br/api'; // <--- AJUSTADO para o endpoint de transações unificado
 
 // === Helpers de mapeamento ===
